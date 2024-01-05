@@ -2,7 +2,7 @@ repo_name: 2lambda123/3D-Tensor-based-Deep-Learning-Models-for-Predicting-Option
 report_id: c7532884883759de6af9ce089bb8ed4e
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:31:43+00:00'
+timestamp: '2024-01-05T08:14:14+00:00'
 requested_by: Tom-900
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/3D-Tensor-based-Deep-Learning-Models-for-Predicting-Option-Price
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/3D-Tensor-based-Deep-Learning-Models-for-Predicting-Option-Price
   detection_source: Repo Metadata
